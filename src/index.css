@@ -11,3 +11,61 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/*----Weather----*/
+.text-align-right{
+  text-align: right;
+}
+
+.text-align-left{
+  text-align: left;
+}
+
+.high-temp{
+  color: red;
+}
+
+.low-temp{
+  color: blue;
+  text-align: left;
+}
+
+/*----Post-----*/
+.post{
+  padding-top: 10%;
+  padding-bottom: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.post-input{
+  text-align: left;
+  padding-left: 3%;
+  padding-top: 3%;
+}
+
+.input-text{
+  margin-top: 10%;
+  width: 95%;
+ /* border: solid ;
+  border-color: deeppink;*/
+}
+
+.tweet-button{
+  margin-top: 5%;
+  text-align: center;
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+
+/*-----Tweet-----*/
+.tweet{
+  text-align: left;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 2%;
+}
+
+.ago-time{
+  color: darkgrey;
+}
